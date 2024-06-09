@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=71B8B6&size=28&center=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Desenvolvedor+Front-End+%26+UI+Designer+;%E2%9C%8C%EF%B8%8F+Bem-vindo!)](https://git.io/typing-svg)
 
+<br>
+<div align="center">  
+<img src="https://streak-stats.demolab.com?user=Ygoroli25&theme=shadow-orange&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ygoroli25&show_icons=true&count_private=true&hide_border=true&title_color=DE7325&icon_color=DE7325&text_color=c9d1d9&bg_color=0d1117" alt="Ygoroli 25 stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygoroli25&layout=compact&hide_border=true&title_color=DE7325&text_color=c9d1d9&bg_color=0d1117" />
