@@ -4,12 +4,12 @@
 
 <br>
 <div align="center">  
-<img src="https://streak-stats.demolab.com?user=Ygoroli25&theme=shadow-orange&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Ygoroli25&theme=shadow-orange&count_private=true&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ygoroli25&show_icons=true&count_private=true&hide_border=true&title_color=DE7325&icon_color=DE7325&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats" alt="Ygoroli 25 stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygoroli25&layout=compact&hide_title=true&hide_border=true&title_color=DE7325&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygoroli25&layout=compact&hide_title=true&count_private=true&hide_border=true&title_color=DE7325&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ###
