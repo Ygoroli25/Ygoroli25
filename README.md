@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=105161&text=Ygor%20Oliveira&fontColor=F4F4F4&fontAlign=75&fontSize=46"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=71B8B6&size=28&center=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Desenvolvedor+Front-End+%26+UI+Designer+;%E2%9C%8C%EF%B8%8F+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=71B8B6&size=28&center=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Desenvolvedor+Full+Stack+%26+UI+Designer+;%E2%9C%8C%EF%B8%8F+Bem-vindo!)](https://git.io/typing-svg)
 
 <br>
 <div align="center">  
@@ -54,6 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongoDB logo"  />   
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS logo"/>
+          
 </div>
 
 ###
